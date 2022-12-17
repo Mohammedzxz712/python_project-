@@ -1,0 +1,10 @@
+https://btech.com/ar/laptop/laptops-1/huawei.html
+
+describe data=> name  price
+
+only print
+
+section 5
+
+محمد عبدالله علي عبدالله
+
